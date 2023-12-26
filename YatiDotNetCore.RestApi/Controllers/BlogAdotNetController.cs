@@ -5,7 +5,7 @@ using System.Data;
 using System.Data.SqlClient;
 
 namespace YatiDotNetCore.RestApi.Controllers
-{
+{//
     [Route("api/[controller]")]
     [ApiController]
     public class BlogAdoDotNetController : ControllerBase

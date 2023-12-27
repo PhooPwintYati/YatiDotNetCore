@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YatiDotNetCore.ConsoleApp", "YatiDotNetCore.ConsoleApp\YatiDotNetCore.ConsoleApp.csproj", "{3345AFF0-FECD-4279-A75B-C3F563CB3161}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{5BFBE9D7-1117-4D3C-A052-5615FED7DF69}"
+	ProjectSection(SolutionItems) = preProject
+		..\AKLMPSTYZDotNetCore-master\README.md = ..\AKLMPSTYZDotNetCore-master\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YatiDotNetCore.RestApi", "YatiDotNetCore.RestApi\YatiDotNetCore.RestApi.csproj", "{EC4FC79B-6671-48AC-997D-A870911A6C52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YatiDotNetCore.MinimalApi", "YatiDotNetCore.MinimalApi\YatiDotNetCore.MinimalApi.csproj", "{40125862-C441-4407-8612-86A67FB518DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3345AFF0-FECD-4279-A75B-C3F563CB3161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3345AFF0-FECD-4279-A75B-C3F563CB3161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3345AFF0-FECD-4279-A75B-C3F563CB3161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3345AFF0-FECD-4279-A75B-C3F563CB3161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4FC79B-6671-48AC-997D-A870911A6C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4FC79B-6671-48AC-997D-A870911A6C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4FC79B-6671-48AC-997D-A870911A6C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4FC79B-6671-48AC-997D-A870911A6C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40125862-C441-4407-8612-86A67FB518DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40125862-C441-4407-8612-86A67FB518DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40125862-C441-4407-8612-86A67FB518DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40125862-C441-4407-8612-86A67FB518DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB2D75E9-8E9D-4918-A77C-C9DD76F111A6}
+	EndGlobalSection
+EndGlobal

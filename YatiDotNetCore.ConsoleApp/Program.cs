@@ -70,9 +70,9 @@ Console.WriteLine("Hello, World!");
 
 //EFCoreExample eFCoreExample = new EFCoreExample();
 //eFCoreExample.Run();
-Console.WriteLine("Please wait for api...");
-Console.ReadKey();
+//Console.WriteLine("Please wait for api...");
+//Console.ReadKey();
 
-RefitExample refitExample = new RefitExample();
-await refitExample.Run();
-Console.ReadKey();
+//RefitExample refitExample = new RefitExample();
+//await refitExample.Run();
+//Console.ReadKey();

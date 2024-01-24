@@ -65,8 +65,12 @@ Console.WriteLine("Hello, World!");
 //adoDotNetExample.Run();
 
 //DapperExample dapperExample = new DapperExample();
-//dapperExample.Run();
+//dapperExample.Run()
+//EFCoreExample eFCoreExample = new EFCoreExample();
+//eFCoreExample.Run();
+//Console.WriteLine("Please wait for api...");
+//Console.ReadKey();
 
-EFCoreExample eFCoreExample = new EFCoreExample();
-eFCoreExample.Run();
-Console.ReadKey();
+//RefitExample refitExample = new RefitExample();
+//await refitExample.Run();
+//Console.ReadKey();

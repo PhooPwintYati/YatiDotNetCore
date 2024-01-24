@@ -3,7 +3,6 @@ using YatiDotNetCore.ConsoleApp.AdoDotNetExamples;
 using System.Data;
 using System.Data.SqlClient;
 using YatiDotNetCore.ConsoleApp.EFCoreExamples;
-using YatiDotNetCore.ConsoleApp.RefitExamples;
 
 Console.WriteLine("Hello, World!");
 //Ctrl + .
@@ -66,8 +65,7 @@ Console.WriteLine("Hello, World!");
 //adoDotNetExample.Run();
 
 //DapperExample dapperExample = new DapperExample();
-//dapperExample.Run();
-
+//dapperExample.Run()
 //EFCoreExample eFCoreExample = new EFCoreExample();
 //eFCoreExample.Run();
 //Console.WriteLine("Please wait for api...");

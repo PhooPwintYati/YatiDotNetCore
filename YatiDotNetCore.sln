@@ -10,11 +10,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{
 		..\AKLMPSTYZDotNetCore-master\README.md = ..\AKLMPSTYZDotNetCore-master\README.md
 	EndProjectSection
 EndProject
+
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YatiDotNetCore.RestApi", "YatiDotNetCore.RestApi\YatiDotNetCore.RestApi.csproj", "{EC4FC79B-6671-48AC-997D-A870911A6C52}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YatiDotNetCore.MinimalApi", "YatiDotNetCore.MinimalApi\YatiDotNetCore.MinimalApi.csproj", "{40125862-C441-4407-8612-86A67FB518DF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YatiDotNerCore.AtmConsoleApp", "YatiDotNerCore.AtmConsoleApp\YatiDotNerCore.AtmConsoleApp.csproj", "{54E4CFE9-AEA2-46E2-B7A0-468CA699846D}"
+
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,10 +36,7 @@ Global
 		{40125862-C441-4407-8612-86A67FB518DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40125862-C441-4407-8612-86A67FB518DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40125862-C441-4407-8612-86A67FB518DF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{54E4CFE9-AEA2-46E2-B7A0-468CA699846D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{54E4CFE9-AEA2-46E2-B7A0-468CA699846D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{54E4CFE9-AEA2-46E2-B7A0-468CA699846D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{54E4CFE9-AEA2-46E2-B7A0-468CA699846D}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
